@@ -12,11 +12,11 @@ difference(){
 difference(){
 */
 	translate([0,-4,.1]) scale(.8, .8, .8) math_hinge(1,1,2.6);
-	color("red") lego(2,1,2);
+	color("red") lego(2,2,2);
 /*
 translate([4, 4, 6.5]) convex();
 translate([12, 4, 6.5]) convex();
 */
 
 color("blue") 
-	translate([0, -16, 0]) lego(2,1,2);
+	translate([0, -24, 0]) lego(2,2,2);
