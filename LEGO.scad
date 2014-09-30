@@ -160,4 +160,4 @@ module brick(length = 4, width = 2, height = 3, smooth = false){
 	}
 }
 }
-lego(3,2,1);
+lego(10,5,1);
