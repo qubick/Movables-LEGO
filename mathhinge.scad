@@ -22,7 +22,7 @@ border = 1*b;
 fudge = .01*1;			// to preserve mesh integrity
 corner = 0*1;      	// space between hinge and corner
 hinge_radius = height/2;
-cone_height = 1.3*hinge_radius;  
+cone_height = 1.2*hinge_radius;  
 
 //////////////////////////////////////////////////////
 // renders
